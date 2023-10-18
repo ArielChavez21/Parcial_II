@@ -1,0 +1,31 @@
+.container {
+    margin-top: 4rem;
+    align-items: center;
+}
+
+.card {
+    margin: 2rem 2rem 2rem 0;
+    max-width: 100%;
+    margin: 0 auto;
+
+}
+
+.container-form{
+    text-align: center;
+}
+
+.sub-container {
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.sub-container .btn {
+    margin-top: 1rem;
+    max-width: 16%;
+    justify-content: left;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+}
